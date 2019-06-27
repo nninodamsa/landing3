@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => (
     <div className="FooterContainer">
-        Manofacturing® 2018 Todos los derechos reservados. 
+        Valo Asesores® 2019 Todos los derechos reservados. 
     </div>
 )
 

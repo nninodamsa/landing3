@@ -5,7 +5,7 @@ const Mision = () => (
         <div className="MisionCol">
             <div className='text'>Misión</div>
             <div className="line-white"></div>
-            <p>En Manofacturing DFA tenemos  la misión de respaldar, estimar y análizar de manera objetiva cada operación de nuestros clientes a fin de generar un plan estratégico  con metas concretas meidante el trabajo en conjunto.</p>
+            <p>En Valo Asesores tenemos  la misión de respaldar, estimar y análizar de manera objetiva cada operación de nuestros clientes a fin de generar un plan estratégico  con metas concretas meidante el trabajo en conjunto.</p>
         </div>
 
         <div className="MisionCol">
